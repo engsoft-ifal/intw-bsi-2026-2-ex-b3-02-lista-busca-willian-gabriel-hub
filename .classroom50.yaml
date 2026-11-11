@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "intw-bsi-2026-2"
+assignment: "ex-b3-02-lista-busca"
+owner:
+  username: "Willian-Gabriel-Hub"
+  id: 318268708
+  accepted_at: "2026-11-11T13:33:39Z"
+source:
+  owner: "engsoft-ifal"
+  owner_id: 100852696
+  repo: "pweb1-ex-b3-02-lista-busca"
+  branch: "main"
